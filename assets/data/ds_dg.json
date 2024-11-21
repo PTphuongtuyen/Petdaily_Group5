@@ -1,0 +1,142 @@
+[
+  {
+    "maDanhGia": "DG001",
+    "danhGia": 5,
+    "binhLuan": "Dịch vụ khám và điều trị bệnh cho thú cưng rất tốt, bác sĩ nhiệt tình!",
+    "hinhAnh": [
+      "assets/imgage_review/DG001.png"
+    ],
+    "ID_KH": "KH001",
+    "hoTen": "Nguyen Van An",
+    "linhVuc": "Chăm sóc sức khỏe",
+    "maGoi": "CCS001",
+    "tenGoi": "Khám và Điều Trị Bệnh",
+    "ngay": "2024-10-16"
+  },
+  {
+    "maDanhGia": "DG002",
+    "danhGia": 4,
+    "binhLuan": "Dịch vụ tắm spa cho mèo sạch sẽ, thơm tho!",
+    "hinhAnh": [
+      "assets/imgage_review/DG002.png"
+    ],
+    "ID_KH": "KH002",
+    "hoTen": "Tran Ngoc Binh",
+    "linhVuc": "Spa-Grooming",
+    "maGoi": "MSG001",
+    "tenGoi": "Gói Tắm làm sạch 8 bước",
+    "ngay": "2024-10-15"
+  },
+  {
+    "maDanhGia": "DG003",
+    "danhGia": 3,
+    "binhLuan": "Dịch vụ ổn nhưng có thể cải thiện thêm về không gian khách sạn cho thú cưng.",
+    "hinhAnh": [
+      "assets/imgage_review/DG003.png"
+    ],
+    "ID_KH": "KH003",
+    "hoTen": "Le Van Cong",
+    "linhVuc": "Khách sạn thú cưng",
+    "maGoi": "CKS001",
+    "tenGoi": "Khách sạn thú cưng",
+    "ngay": "2024-10-14"
+  },
+  {
+    "maDanhGia": "DG004",
+    "danhGia": 5,
+    "binhLuan": "Quy trình tiêm phòng rất cẩn thận, an toàn cho thú cưng!",
+    "hinhAnh": [
+      "assets/imgage_review/DG004.png"
+    ],
+    "ID_KH": "KH004",
+    "hoTen": "Pham Binh Dung",
+    "linhVuc": "Chăm sóc sức khỏe",
+    "maGoi": "CCS010",
+    "tenGoi": "Tiêm phòng - Vaccine 7 bệnh + dại",
+    "ngay": "2024-10-13"
+  },
+  {
+    "maDanhGia": "DG005",
+    "danhGia": 4,
+    "binhLuan": "Dịch vụ grooming tại nhà rất tiện lợi, nhân viên thân thiện.",
+    "hinhAnh": [
+      "assets/imgage_review/DG005.png"
+    ],
+    "ID_KH": "KH005",
+    "hoTen": "Hoang Van Thu",
+    "linhVuc": "Spa-Grooming",
+    "maGoi": "CSG002",
+    "tenGoi": "Gói Tắm làm sạch 8 bước",
+    "ngay": "2024-10-12"
+  },
+  {
+    "maDanhGia": "DG006",
+    "danhGia": 5,
+    "binhLuan": "Dịch vụ khách sạn rất đáng tin cậy, thú cưng của tôi được chăm sóc tốt.",
+    "hinhAnh": [
+      "assets/imgage_review/DG006.png"
+    ],
+    "ID_KH": "KH006",
+    "hoTen": "Ngo Thi Han",
+    "linhVuc": "Khách sạn thú cưng",
+    "maGoi": "MKS001",
+    "tenGoi": "Khách sạn thú cưng",
+    "ngay": "2024-10-11"
+  },
+  {
+    "maDanhGia": "DG007",
+    "danhGia": 4,
+    "binhLuan": "Dịch vụ khám tổng quát rất chi tiết, thú cưng được chăm sóc chu đáo.",
+    "hinhAnh": [
+      "assets/imgage_review/DG007.png"
+    ],
+    "ID_KH": "KH007",
+    "hoTen": "Dang Van Giang",
+    "linhVuc": "Chăm sóc sức khỏe",
+    "maGoi": "MCS003",
+    "tenGoi": "Tầm Soát Sức Khỏe - Gói khám tổng quát",
+    "ngay": "2024-10-10"
+  },
+  {
+    "maDanhGia": "DG008",
+    "danhGia": 3,
+    "binhLuan": "Dịch vụ tiêm phòng đầy đủ nhưng chờ hơi lâu.",
+    "hinhAnh": [
+      "assets/imgage_review/DG008.png"
+    ],
+    "ID_KH": "KH008",
+    "hoTen": "Bui Thi Huong",
+    "linhVuc": "Chăm sóc sức khỏe",
+    "maGoi": "CCS005",
+    "tenGoi": "Tiêm phòng - Vaccine 4 bệnh",
+    "ngay": "2024-10-09"
+  },
+  {
+    "maDanhGia": "DG009",
+    "danhGia": 5,
+    "binhLuan": "Dịch vụ spa chất lượng, thú cưng rất thư giãn sau khi grooming.",
+    "hinhAnh": [
+      "assets/imgage_review/DG009.png"
+    ],
+    "ID_KH": "KH009",
+    "hoTen": "Tran Van Toan",
+    "linhVuc": "Spa-Grooming",
+    "maGoi": "CSG001",
+    "tenGoi": "Gói Tắm làm sạch 8 bước",
+    "ngay": "2024-10-08"
+  },
+  {
+    "maDanhGia": "DG010",
+    "danhGia": 4,
+    "binhLuan": "Khách sạn cho mèo rất sạch sẽ và thoải mái.",
+    "hinhAnh": [
+      "assets/imgages/DG010.png"
+    ],
+    "ID_KH": "KH010",
+    "hoTen": "Pham Van Khang",
+    "linhVuc": "Khách sạn thú cưng",
+    "maGoi": "MKS001",
+    "tenGoi": "Khách sạn thú cưng",
+    "ngay": "2024-10-07"
+  }   
+]

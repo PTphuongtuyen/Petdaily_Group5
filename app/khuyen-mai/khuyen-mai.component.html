@@ -1,0 +1,16 @@
+<div>
+    <app-header></app-header>
+</div>
+
+<!-- nội dung -->
+<div class="container">
+    <h1 class="promo-title">Khuyến Mãi Đặc Biệt</h1>
+  
+    <div *ngFor="let banner of banners">
+      <img [src]="banner.src" [alt]="banner.alt" class="banner">
+    </div>
+  </div>
+  
+<div>
+    <app-footer></app-footer>
+</div>
